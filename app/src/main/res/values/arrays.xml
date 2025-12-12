@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Difficulty levels -->
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="difficulty_values">
+        <item>easy</item>
+        <item>medium</item>
+        <item>hard</item>
+    </string-array>
+
+    <!-- Languages -->
+    <string-array name="languages">
+        <item>Arabic</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>arabic</item>
+        <item>french</item>
+    </string-array>
+
+    <!-- Encouragement messages -->
+    <string-array name="encouragement_messages">
+        <item>Great job! 🌟</item>
+        <item>You\'re doing amazing! ✨</item>
+        <item>Keep it up! 💪</item>
+        <item>Fantastic! 🎉</item>
+        <item>You\'re a star! ⭐</item>
+        <item>Excellent work! 👏</item>
+        <item>Wonderful! 🎊</item>
+        <item>Outstanding! 🏆</item>
+        <item>Brilliant! 💫</item>
+        <item>Superb! 🌈</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom view attributes -->
+    <declare-styleable name="DrawingView">
+        <attr name="brushColor" format="color"/>
+        <attr name="brushSize" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="LetterCard">
+        <attr name="letterText" format="string"/>
+        <attr name="cardColor" format="color"/>
+        <attr name="cardElevation" format="dimension"/>
+    </declare-styleable>
+</resources>
