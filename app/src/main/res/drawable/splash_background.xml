@@ -12,6 +12,9 @@
     </item>
 
     <item
-        android:drawable="@mipmap/ic_launcher"
-        android:gravity="center" />
+        android:gravity="center">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/ic_launcher"/>
+    </item>
 </layer-list>
